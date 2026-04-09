@@ -1,0 +1,24 @@
+
+.movieContent {
+    display: flex;
+    flex-direction: column;
+}
+
+.movieTitle {
+    margin-bottom: 8px;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.movieVoteAverage {
+    margin-bottom: 12px;
+    font-size: 14px;
+    color: #888;
+}
+
+
+.movieOverview {
+    font-size: 14px;
+    color: #555;
+    line-height: 1.5;
+}
